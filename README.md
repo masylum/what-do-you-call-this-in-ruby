@@ -97,6 +97,7 @@
 | `&:foo` | symbol to proc operator |
 | `&:foo` | pretzel colon |
 | `&:foo` | salted pretzel operator |
+| `&:` | donald trump operator|
 | `<<` | append operator |
 | `<<` | push |
 | `<<` | shovel |
